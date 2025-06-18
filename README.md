@@ -106,6 +106,62 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</div>
+
+### 🔐 **CognitoPics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-blue?style=flat-square)
+
+🎯 **Face-based photo locker** that intelligently detects and encrypts images containing selected faces  
+🔒 Implemented **secure encryption algorithms** for ultimate privacy protection of personal photos  
+💡 Inspired by Google Photos Locked folder system with an innovative twist - **detects persons and hides all their photos at once** *(work in progress)*
+
+---
+
+### 💰 **Expense Tracker**
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
+
+☁️ Built **serverless expense tracking application** with smart categorization and real-time management  
+📊 **Visualized spending patterns** leveraging AWS's scalable and cost-effective architecture  
+⚡ Fully serverless design ensuring optimal performance and minimal costs
+
+---
+
+### ❤️ **Heart Disease Prediction**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square)
+
+🤖 Trained multiple **ML models** (Logistic Regression, KNN, Random Forest) using clinical datasets  
+🎯 **Enhanced accuracy** through advanced feature engineering and cross-validation techniques  
+🏥 Predictive healthcare solution for early disease detection
+
+---
+
+### 🎪 **KEVENTS (Event Schedules)**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+🏛️ Designed **robust platform** supporting **1,000+ users** with optimized scheduling system  
+📅 Helps students track timelines of events scheduled by various **societies and clubs** on college campus  
+⚡ High-performance architecture handling concurrent user loads efficiently
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
@@ -129,21 +185,9 @@ graph TD
 
 ---
 
-## 🌟 Fun Zone
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  <img src="https://komarev.com/ghpvc/?username=isha54ry&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-  
+   
   **Thanks for visiting! Let's build something amazing together! 🚀**
 </div>
 
